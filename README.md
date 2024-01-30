@@ -1,4 +1,4 @@
-# Power-bi-projects
+# Super store sales dashboard
 Super Store Sales Forecasting
 This project aims to predict sales for a superstore using historical sales data. The forecasting model considers factors like product categories, delivery times, and shipping days to generate accurate sales forecasts. The model, built on a time-series forecasting approach, classifies products into categories and analyzes sub-categories for detailed insights.
 Key Components:
